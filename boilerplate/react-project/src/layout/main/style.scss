@@ -1,0 +1,25 @@
+#root {
+  .logo {
+    position: relative;
+    width: 120px;
+    height: 31px;
+    line-height: 31px;
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+
+  .ant-layout {
+    background: #fff;
+  }
+
+  .layout-header {
+    background: #fff;
+  }
+
+  .layout-footer {
+    color: #5b5b5b;
+    padding: 30px 0;
+    background: #fff;
+    text-align: center;
+  }
+}

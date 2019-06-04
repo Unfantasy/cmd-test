@@ -1,0 +1,5 @@
+dist/
+*.config.js
+config/
+scripts/
+build/
