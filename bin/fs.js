@@ -16,5 +16,5 @@ program
   .command('build', '打包')
   .command('install [cmd]', '安装依赖').alias('i')
   .command('uninstall [cmd]', '安装依赖').alias('u')
-  .command('test', '测试命令行')
+  .command('resume', '个人介绍')
   .parse(process.argv);
