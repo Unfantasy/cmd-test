@@ -1,6 +1,6 @@
 {
   "name": "@fantasy123/cmd-test",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "node 开发命令行测试项目",
   "main": "",
   "bin": {
